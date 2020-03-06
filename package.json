@@ -1,0 +1,14 @@
+{
+  "name": "tryingagaaain",
+  "version": "1.0.0",
+  "description": "damn dumb",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "madkat420",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
